@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "asfdadsftest"
+baseURL = "https:\/\/www.playertest123.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758403"
+subfolder = ""
